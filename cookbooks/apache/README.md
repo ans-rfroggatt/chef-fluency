@@ -1,4 +1,4 @@
 # apache
 
-TODO: Enter the cookbook description here.
+Installs correct Apache package depending on Linux distribution.
 
